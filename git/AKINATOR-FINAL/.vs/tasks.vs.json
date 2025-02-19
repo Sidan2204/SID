@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-landing",
+      "appliesTo": "wwwroot/landing.html",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-theme_selection",
+      "appliesTo": "static/theme_selection.html",
+      "type": "launch"
+    }
+  ]
+}
